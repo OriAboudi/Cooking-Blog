@@ -75,7 +75,7 @@ function Home() {
             </section>
             {/* {categories end} */}
 
-//TODO: add lazy loading to image loading
+
 
             {/* rescipe */}
             <section>

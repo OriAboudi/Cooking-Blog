@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3020/"
+const API_URL = "https://real-jade-oyster-tux.cyclic.app/"
 export const TOKEN_KEY = "token"
     //? AUTH ROUTERS
 export const SIGN_UP_URL = API_URL + 'users/signup'
